@@ -286,3 +286,12 @@ JRSA demonstrated lightweight runtime security monitoring capabilities with low 
 **Ravi Sankar Manem**
 
 GitHub: https://github.com/ravimnm
+
+## Integrations
+
+JRSA integrates with the following systems:
+
+| Project | Purpose |
+|----------|---------|
+| [SMTAP](https://github.com/ravimnm/audit-compliance-platform) | Stores and verifies runtime security telemetry |
+| [Secure Finance Backend](https://github.com/ravimnm/secure-finance-backend) | Example protected JVM application monitored by JRSA |
